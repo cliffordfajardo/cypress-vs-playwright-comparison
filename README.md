@@ -1,4 +1,6 @@
 # Playwright vs Cypress E2E Testing
+> Initially this conversation was started in the [Playwright Github Discussions #11201 forum (here)](https://github.com/microsoft/playwright/discussions/11201).
+
 
 > This comparison table strives to be as accurate and as unbiased as possible. If you use any of these libraries and feel the information could be improved, feel free to suggest changes (with notes or evidence of claims) using the "Edit this page on Github" link at the bottom of this page.
 
@@ -69,3 +71,5 @@ References
 - https://www.npmjs.com/package/playwright-testing-library
 - https://playwright.dev/docs/emulation#geolocation
 - https://github.com/cypress-io/cypress/issues/2671
+- https://github.com/tomByrer/codecept-playwright-vs-cypressio-fb/blob/master/article.md
+
