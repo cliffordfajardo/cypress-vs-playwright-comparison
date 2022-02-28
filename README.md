@@ -15,29 +15,29 @@ Feature/Capability Key:
 | -------------------------------------------------- | ----------------------------------------  | ---------------------------           |
 | Github Repo / Stars                                | [![][gh-stars-playwright]][gh-playwright] | [![][gh-stars-cypress]][gh-cypress]   |
 | Their Comparison                                   |                                           | (none)                                |
+| Auto waiting                                       | ✅                                        | ✅                                     |
+| Network Monitoring & Interception                  | ✅                                        | ✅                                     |
+| API Testing                                        | ✅                                        | ✅                                     |
+| Trace Viewer                                       | ✅                                        | ✅                                     |
+| Video Recording                                    | ✅                                        | ✅                                     |
+| Screenshot capture                                 | ✅                                        | ✅                                     |
+| Test File Level Pareallelization                   | ✅                                        | ✅                                     |
+| Test Reporter Customization                        | ✅                                        | ✅                                     |
+| Test Retries                                       | ✅                                        | ✅                                     |
+| Mobile Emulation                                   | ✅                                        | ✅                                     |
+| Free                                               | ✅                                        | 🔶 Subset of features                  |
+| Hover Support                                      | ✅                                        | 🔶                                     |
+| iFrame Support                                     | ✅                                        | 🔶                                     |
+| Geolocation Emulation                              | ✅                                        | 🔶                                     |
+| Stortybook Support                                 | 🟡                                        | 🟡                                     |
+| Breakpoint Debugging Support in IDE                | ✅ (VS Code)                              | 🛑  (need to use debug command)        |
+| General Purpose Browser Automation Tool            | ✅                                        | 🛑                                     |
 | Multiiple Domain Support within same test          | ✅                                        | 🛑                                     |
 | Multiiple Browser Tab Support within same test     | ✅                                        | 🛑                                     |
 | Multiiple User Support within the same test        | ✅                                        | 🛑                                     |
 | Test Block Level Pareallelization                  | ✅                                        | 🛑                                     |
-| Test File Level Pareallelization                   | ✅                                        | ✅                                     |
-| Test Reporter Customization                        | ✅                                        | ✅                                     |
-| Hover Support                                      | ✅                                        | 🔶                                     |
-| iFrame Support                                     | ✅                                        | 🔶                                     |
-| Breakpoint Debugging Support in IDE                | ✅ (VS Code)                              | 🛑  (need to use debug command)        |
+| Screenshot diffing                                 | ❔                                        | ❔                                     |
 | Speed Rank (Scale 1-5, 5 being fastest)            | 5                                         | 4                                     |
-| Free                                               | All Features                              | Subset of features                    |
-| Trace Viewer                                       | ✅                                        | ✅                                     |
-| Video Recording                                    | ✅                                        | ✅                                     |
-| Screenshot capture                                 | ✅                                        | ✅                                     |
-| Screenshot diffing                                 | ❔                                        |  ❔                                    |
-| Test Retries                                       | ✅                                        | ✅                                     |
-| Mobile Emulation                                   | ✅                                        | ✅                                     |
-| Geolocation Emulation                              | ✅                                        | 🔶                                     |
-| Auto waiting                                       | ✅                                        | ✅                                     |
-| Network Monitoring & Interception                  | ✅                                        | ✅                                     |
-| API Testing                                        | ✅                                        | ✅                                     |
-| Stortybook Support                                 | 🟡                                        | 🟡                                     |
-| General Purpose Browser Automation Tool            | ✅                                        | 🛑                                     |
 
 <!-- -->
 
@@ -60,6 +60,7 @@ Feature/Capability Key:
 
 
 References
+- [Playwright VSCode extension](https://marketplace.visualstudio.com/items?itemName=ms-playwright.playwright) 
 - https://playwright.dev/
 - https://docs.cypress.io/
 - https://blog.checklyhq.com/cypress-vs-selenium-vs-playwright-vs-puppeteer-speed-comparison/
