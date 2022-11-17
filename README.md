@@ -29,7 +29,7 @@ Feature/Capability Key:
 | Hover Support                                      | ✅                                        | 🔶                                     |
 | iFrame Support                                     | ✅                                        | 🔶                                     |
 | Geolocation Emulation                              | ✅                                        | 🔶                                     |
-| Stortybook Support                                 | 🟡                                        | 🟡                                     |
+| Storybook Support                                  | 🟡                                        | 🟡                                     |
 | Breakpoint Debugging Support in IDE                | ✅ (VS Code)                              | 🛑  (need to use debug command)        |
 | General Purpose Browser Automation Tool            | ✅                                        | 🛑                                     |
 | Multiiple Domain Support within same test          | ✅                                        | 🛑                                     |
