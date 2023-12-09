@@ -21,7 +21,7 @@ Feature/Capability Key:
 | Trace Viewer                                       | ✅                                        | ✅                                     |
 | Video Recording                                    | ✅                                        | ✅                                     |
 | Screenshot capture                                 | ✅                                        | ✅                                     |
-| Test File Level Pareallelization                   | ✅                                        | ✅                                     |
+| Test File Level Parallelization                    | ✅                                        | ✅                                     |
 | Test Reporter Customization                        | ✅                                        | ✅                                     |
 | Test Retries                                       | ✅                                        | ✅                                     |
 | Mobile Emulation                                   | ✅                                        | ✅                                     |
@@ -32,12 +32,12 @@ Feature/Capability Key:
 | Storybook Support                                  | 🟡                                        | 🟡                                     |
 | Breakpoint Debugging Support in IDE                | ✅ (VS Code)                              | 🛑  (need to use debug command)        |
 | General Purpose Browser Automation Tool            | ✅                                        | 🛑                                     |
-| Multiiple Domain Support within same test          | ✅                                        | 🛑                                     |
-| Multiiple Browser Tab Support within same test     | ✅                                        | 🛑                                     |
-| Multiiple User Support within the same test        | ✅                                        | 🛑                                     |
-| Test Block Level Pareallelization                  | ✅                                        | 🛑                                     |
-| Screenshot diffing                                 | ❔                                        | ❔                                     |
-| Speed Rank (Scale 1-5, 5 being fastest)            | 5                                         | 4                                     |
+| Multiple Domain Support within same test           | ✅                                        | 🛑                                     |
+| Multiple Browser Tab Support within same test      | ✅                                        | 🛑                                     |
+| Multiple User Support within the same test         | ✅                                        | 🛑                                     |
+| Test Block Level Parallelization                   | ✅                                        | 🛑                                     |
+| Screenshot diffing                                 | ❔                                         | ❔                                      |
+| Speed Rank (Scale 1-5, 5 being fastest)            | 5                                         | 4                                       |
 
 <!-- -->
 
